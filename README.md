@@ -40,7 +40,7 @@ I am an **Electrical and Telecommunication Engineering graduate** passionate abo
         <li>Custom EC2,VPC design, public/private subnets & NAT/Internet Gateways</li>
         <li>Cross-region active-passive DNS failover & health checks</li>
         <li>EC2 Linux web server deployment, ALB & Auto Scaling</li>
-        li>Databases, EFS,S3,EBS & Transfer family- migration</li>
+        <li>Databases, EFS,S3,EBS & Transfer family- migration</li>
         <li>Serverless automation, system monitoring & troubleshoooting</li>
       </ul>
     </td>
