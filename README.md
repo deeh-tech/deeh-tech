@@ -31,15 +31,17 @@ I am an **Electrical and Telecommunication Engineering graduate** passionate abo
         <li>Inter-VLAN routing (Router-on-a-Stick & L3 switching)</li>
         <li>IPv4 addressing, VLSM & structured subnetting</li>
         <li>Core network services (DNS, DHCP) & packet-level troubleshooting</li>
+        <li>Network planning- community readiness assesment,financial stability using <style: color:red;>Techno-economical tool</style> </li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>☁️ Cloud Engineering (AWS)</h4>
       <ul>
-        <li>Custom VPC design, public/private subnets & NAT Gateways</li>
+        <li>Custom EC2,VPC design, public/private subnets & NAT/Internet Gateways</li>
         <li>Cross-region active-passive DNS failover & health checks</li>
         <li>EC2 Linux web server deployment, ALB & Auto Scaling</li>
-        <li>Serverless automation & EBS/EC2 cost optimization</li>
+        li>Databases, EFS,S3,EBS & Transfer family- migration</li>
+        <li>Serverless automation, system monitoring & troubleshoooting</li>
       </ul>
     </td>
   </tr>
@@ -47,10 +49,10 @@ I am an **Electrical and Telecommunication Engineering graduate** passionate abo
     <td width="50%" valign="top">
       <h4>💻 Full-Stack Web Development</h4>
       <ul>
-        <li>Backend web applications & REST APIs in Python & Django</li>
+        <li>Backend web applications & APIs in Python & Django</li>
         <li>Server-side scripting & tooling with Node.js</li>
         <li>Responsive frontends with HTML5, CSS3 & Bootstrap</li>
-        <li>Relational database design & management (SQL / MariaDB)</li>
+        <li>Relational database design & management (SQL)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
