@@ -31,7 +31,7 @@ I am an **Electrical and Telecommunication Engineering graduate** passionate abo
         <li>Inter-VLAN routing (Router-on-a-Stick & L3 switching)</li>
         <li>IPv4 addressing, VLSM & structured subnetting</li>
         <li>Core network services (DNS, DHCP) & packet-level troubleshooting</li>
-        <li>Network planning- community readiness assesment,financial stability using <style: color:red;>Techno-economical tool</style> </li>
+        <li>Network planning- community readiness assesment,financial stability using Techno-economical tool</li>
       </ul>
     </td>
     <td width="50%" valign="top">
